@@ -1,3 +1,13 @@
+# ExamAce
+
+SwiftUI iOS study app: cream paper background, a gold 25-minute timer for **Further Maths Paper 2**, and tabs for Plan, Timer, Tutors, Sleep, and You.
+
+Open `ExamAce.xcodeproj` in Xcode 16 or later (iOS 17+). Select your Development Team under Signing & Capabilities, then run on a simulator or device.
+
+The study timer, streaks, points, and revision list work locally. HealthKit and Sign in with Apple are stubbed with TODOs until those capabilities are enabled on an Apple Developer team.
+
+---
+
 # ExamAce Privacy Policy
 
 **Effective Date:** August 31, 2025  
